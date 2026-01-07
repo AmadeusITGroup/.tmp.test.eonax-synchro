@@ -1,0 +1,14 @@
+{
+  "/api": {
+    "target": "https://test.api.eona-x.dataspace-platform.amadeus.com/dev",
+    "secure": false,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/api": ""
+    },
+    "headers": {
+      "Origin": "https://test.portal.eona-x.dataspace-platform.amadeus.com"
+    },
+    "logLevel": "debug"
+  }
+}
