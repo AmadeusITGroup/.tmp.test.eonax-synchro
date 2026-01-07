@@ -76,4 +76,4 @@ reviewing pull requests (PRs).
 The Dataspace Ecosystem developers are responsible for reviewing and approving PRs:
 
 - @AndreeaCascaval
-- @hellowordlproaccount
+- @hello-world-git-user
